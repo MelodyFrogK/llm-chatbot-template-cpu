@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
+pydantic
+llama-cpp-python
+sentence-transformers
+psycopg2-binary
